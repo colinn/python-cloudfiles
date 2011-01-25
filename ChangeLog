@@ -1,3 +1,6 @@
+2011-01-25 Colin Nicholson <colin.nicholson@iomart.com>
+	Changed authentication to work with OpenStack swift
+
 2011-01-19 John Dickinson <john@johnandkaren.com>
 	* 1.7.6:  Fixed error where re-authenticating a request would result in a failed request
 
